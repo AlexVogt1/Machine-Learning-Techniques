@@ -4,7 +4,7 @@ This Repo contains machine learning teachnique (and tasks completed in my univer
 \
 - No feature selection/engineering was done on the data as the main perpose was to show that I could build the various machine learning techniques from first principles
 - only basic data cleaning was performed for outlier removal and to imporve data repesentation
-
+### Folder Representation
  ```
 /
 ├── K-Means
@@ -21,3 +21,12 @@ This Repo contains machine learning teachnique (and tasks completed in my univer
 │   └── star_classification.csv.zip
 └── README.md (The main readme)
  ```
+
+### ML Checklist
+- [x] Linear Regression
+- [ ] Logistic Regression
+- [ ] Naive Bayes
+- [ ] Neural Networks
+- [x] Multi-Layered Neural Network
+- [x] K-Means Clustering
+
