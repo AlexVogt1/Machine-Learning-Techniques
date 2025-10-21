@@ -1,12 +1,13 @@
 # Machine Leaning Techniques
 
-This Repo contains machine learning teachnique (and tasks completed in my university career)
-\
-- No feature selection/engineering was done on the data as the main perpose was to show that I could build the various machine learning techniques from first principles
-- only basic data cleaning was performed for outlier removal and to imporve data repesentation
+This Repo contains machine learning techniques (and tasks completed in my university career)
+- No feature selection/engineering was done on the data as the main purpose was to show that I could build the various machine learning techniques from first principles
+- only basic data cleaning was performed to improve data repesentation
 ### Folder Representation
  ```
 /
+├── CNN
+│   └── CNN_first_principles.ipynb
 ├── K-Means
 │   ├── images              -> contains the images used in the K-means
 │   ├── K-mans.ipynb
@@ -26,7 +27,9 @@ This Repo contains machine learning teachnique (and tasks completed in my univer
 - [x] Linear Regression
 - [ ] Logistic Regression
 - [ ] Naive Bayes
-- [ ] Neural Networks
+- [x] Convolutional Neural Networks
 - [x] Multi-Layered Neural Network
 - [x] K-Means Clustering
+- [ ] Time Series Models
+- [ ] LLMs
 
