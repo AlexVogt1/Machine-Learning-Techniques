@@ -20,6 +20,8 @@ This Repo contains machine learning techniques (and tasks completed in my univer
 │   ├── MNN.ipynb           -> Multilayered neural network
 │   ├── star_classification.csv
 │   └── star_classification.csv.zip
+├── Time_Series
+│   └── Time_Series.ipynb
 └── README.md (The main readme)
  ```
 
