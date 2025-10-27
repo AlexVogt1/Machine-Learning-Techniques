@@ -1,1 +1,5 @@
 /CNN/ML_2024_Assignment
+*.pth
+the-verdict.txt
+/LLM/checkpoints
+/LLM/gpt2
